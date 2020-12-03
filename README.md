@@ -39,8 +39,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 First Step - clone app using git ( make sure GIT installed in your windows or linux)
 
-...
+```
 $ git clone https://github.com/HafizNatsys/Legacy5-Laravel7.x-CMS.git
-...
+```
 
 
