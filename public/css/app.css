@@ -10903,3 +10903,16 @@ a.text-dark:focus {
   }
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(19, 14, 39);
+  color: white;
+  text-align: center;
+}
+
+.py-4 {
+  padding-bottom: 1.5rem!important;
+}

@@ -5,7 +5,7 @@
 <div class="pull-left">
 <h2>Edit Role</h2>
 </div>
-<div class="pull-right">
+<div class="pull-right" align="right">
 <a class="btn btn-primary" href="{{ route('roles.index') }}"> Back</a>
 </div>
 </div>
@@ -45,4 +45,3 @@
 </div>
 {!! Form::close() !!}
 @endsection
-<p class="text-center text-primary"><small>Tutorial by rscoder.com</small></p>

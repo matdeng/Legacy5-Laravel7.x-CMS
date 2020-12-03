@@ -5,7 +5,7 @@
 <div class="pull-left">
 <h2>Add New Product</h2>
 </div>
-<div class="pull-right">
+<div class="pull-right" align="right">
 <a class="btn btn-primary" href="{{ route('products.index') }}"> Back</a>
 </div>
 </div>
@@ -40,5 +40,4 @@
 </div>
 </div>
 </form>
-<p class="text-center text-primary"><small>Tutorial by rscoder.com</small></p>
 @endsection

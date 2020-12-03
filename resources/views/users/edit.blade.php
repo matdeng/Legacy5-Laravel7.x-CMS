@@ -5,7 +5,7 @@
         <div class="pull-left">
             <h2>Edit New User</h2>
         </div>
-        <div class="pull-right">
+        <div class="pull-right" align="right">
             <a class="btn btn-primary" href="{{ route('users.index') }}"> Back</a>
         </div>
     </div>
@@ -60,5 +60,4 @@
 </div>
 
 {!! Form::close() !!}
-    <p class="text-center text-primary"><small>Tutorial by rscoder.com</small></p>
 @endsection

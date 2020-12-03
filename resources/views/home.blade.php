@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('Welcome to Legacy 5 Admin Page') }}
+                    {{ Auth::user()->name }}, {{ __('Welcome to Legacy 5 Admin') }} 
                 </div>
             </div>
         </div>

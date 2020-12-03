@@ -3,7 +3,7 @@
 <div class="row">
     <div class="col-lg-12 margin-tb">
         <div class="pull-left">
-            <h2>Products</h2>
+            <h2>Products Management</h2>
         </div>
         <div class="pull-right" align="right">
             @can('product-create')

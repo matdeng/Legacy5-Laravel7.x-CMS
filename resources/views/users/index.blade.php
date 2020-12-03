@@ -50,5 +50,4 @@
 
 </table>
 {!! $data->render() !!}
-
 @endsection

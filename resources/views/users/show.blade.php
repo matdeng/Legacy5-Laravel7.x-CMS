@@ -5,7 +5,7 @@
         <div class="pull-left">
             <h2> Show User</h2>
         </div>
-        <div class="pull-right">
+        <div class="pull-right" align="right">
             <a class="btn btn-primary" href="{{ route('users.index') }}"> Back</a>
         </div>
     </div>
